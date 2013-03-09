@@ -1,7 +1,7 @@
-# Popup
+# GTasksbar
 
-Popup project is a demo with custom popover window appearing from the icon in the Mac OS X status bar.
+GTasksbar is a free app for Mac OS X that puts Google Tasks in your taskbar.
 
 # License
 
-Popup is licensed under the BSD license.
+GTasksbar is licensed under the BSD license.
